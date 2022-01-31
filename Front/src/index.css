@@ -1,0 +1,127 @@
+*{
+    box-sizing: border-box;
+  }
+  .container-fluid{
+    background-color: #3788F7;
+    justify-content: center;
+    display: flex;
+    border: 1px solid black;
+    
+    
+    
+  }
+  .nav-item{
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+      
+  }
+  
+ 
+  
+  .nav-link{
+    padding: 1px;
+  }
+  .navbar-brand{
+    font-family: 'Domine', serif;
+    font-size: 30px;
+  }
+  
+  .btn-outline-success{
+    border: 1px solid black;
+    background-color:#6DC4E0 ;      
+  }
+  
+  .form-control {
+    border: 1px solid black;   
+  }
+
+ 
+  .row {
+    margin: 20px;
+    display: flex;
+         
+  }
+  .card-img-overlay{
+    margin: 2px 2px 2px 2px;
+    
+  }
+  .carousel-inner{
+    border: 1px solid black;
+  }
+
+  .card{
+    border: 1px solid black;
+    
+  }
+
+ 
+  
+  .card-title1{
+    font-size: 50px;
+    font-family: 'Domine', serif;
+    color: #3788F7;
+    text-align: center;
+    margin: 200px 20px 10px 10px;
+    font-size: calc(2em + 1vw)
+  }
+  .card-text1{
+    font-size: 20px;
+    font-family: 'Domine', serif;
+    color: black;
+    text-align: center;
+    margin:  5spx;
+  }
+  .card-title{
+    font-size: 20px;
+    font-family: 'Domine', serif;
+    color: black;
+    text-align: center;
+    margin: 2px;
+  }
+  .btn-primary{    
+    
+    display:flex;
+    justify-content: center;
+    padding: 10px 10px 10px 10px;
+    
+          
+  }
+  h3{
+    font-size: 40px;
+    font-family: 'Domine', serif;
+    color: black;
+    margin: 0 auto;
+    font-size: calc(2em + 1vw)
+  }
+  .convenio{
+    width: 612px;
+    padding: 1px;
+    border: 2px solid black;
+  }
+  .card-text-nosotros{
+    font-size: 20px;
+    font-family: 'Domine', serif;
+    color: black;
+    text-align: center;
+    margin: 2px;
+  }
+  .AtencionAlCliente{
+    width: 500px;
+    background-color: #3788F7;
+    font-size: 30px;
+    font-family: 'Domine', serif;
+    color: black;
+    text-align: center;
+    
+  }
+
+  .text-uppercase{
+    color: black;
+    padding: 4px;
+  }
+  .text-reset1{
+    color: black;
+  }
+
+  
+  
